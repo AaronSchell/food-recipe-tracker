@@ -3,3 +3,9 @@ This is a custom console application written in C# that makes cooking and shoppi
 
 -Project start date: 1/13/2018
 -Estimated Completion date: 2/20/2018
+
+
+
+Possible features after launch:  //will add as new ideas emerge 
+
+1. Track ingredient expiration dates and suggest using recipes based on ingredients "on their last leg".

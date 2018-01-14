@@ -10,6 +10,9 @@ namespace Food_Recipe_Tracker
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("New Commit");
+            Console.ReadKey();
         }
     }
 }
