@@ -9,3 +9,5 @@ This is a custom console application written in C# that makes cooking and shoppi
 Possible features after launch:  //will add as new ideas emerge 
 
 1. Track ingredient expiration dates and suggest using recipes based on ingredients "on their last leg".
+2. Change from console application to web application with accounts and online access to see ingredients from your phone.
+3. Create moblie application to take it on the go (aka when buying groceries).
